@@ -1,0 +1,51 @@
+body {
+    background-color: #005ca7;
+    color: #fff;
+}
+
+.navbar {
+    color: #b1b1b1;
+    background-color: #005ca7;
+    border-bottom: 1px solid black;
+}
+
+.card {
+    background-color: #b1b1b1;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+}
+
+.card-container {
+    height: 80vh; 
+    padding-top: 20px; 
+}
+
+.card ul {
+    margin: 0 auto; 
+    display: table;
+}
+
+.card ul h4 {
+    border-top: 1px solid #000; 
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+.card ul li {
+    color: black;
+    text-align: center;
+    display: block;
+    margin-bottom: 10px;
+}
+
+.card ul li a {
+    text-decoration: none; /* Removes the underline from links */
+    color: black;
+}
+
+.card ul li a:hover {
+    text-decoration: none;
+}
+
+.card ul li a:visited {
+    color: #005ca7;
+}
