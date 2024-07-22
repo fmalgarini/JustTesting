@@ -43,13 +43,9 @@ body {
 
 .card ul li a {
     text-decoration: none;
-    color: #005ca7;
 }
 
 .card ul li a:hover {
     text-decoration: none;
 }
 
-.card ul li a:visited {
-    color: #005ca7;
-}
